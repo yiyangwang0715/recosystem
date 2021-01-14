@@ -1,7 +1,7 @@
 ## Recommendation System on movie rating (R, Excel)
 ---
 #### Description
-### Final results are summarized in Excel file.
+#### Final results are summarized in Excel file.
 
 ●Collaborative filtering to predicts user ratings and generate movie recommendations for focal users.
 
